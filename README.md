@@ -3,7 +3,6 @@ Go to main page and run the index.html page
 
 We are 4 developers with very different backgrounds who came together with a common objective in mind:"Educate people about the pandemic with facts in their language ". A lot of people who cannot read or write often fall prey to the mass misinformation and blindly believe everything that is said to them, this creates a hurdle in the community efforts in breaking the chain.
 
-What our app does
 Dr COVID is your Corona Oriented Vital Information and Details assistant, which can share facts derived from trusted sources to the users in both textual and audio format. We provide services like quizzes, Real time Covid dashboard and Helpline contact information through which the users can track the situation and educate themselves in the comfort of their houses.
 
 How we built it
